@@ -9,7 +9,7 @@
 - 💻 Desarrollador **Frontend**
 - ⚡ Me especializo en **React, Next.js, TypeScript, Tailwind**
 - 🌱 Siempre aprendiendo nuevas tecnologías
-<br/>
+
 
 ## 🔧 Tecnologías favoritas
 <br/>
